@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1523794290 source:e:\vrp\main.cpp
+	<iostream>
+	"Traveller.h"
+	"Ship.h"
+	"Point.h"
+	<memory>
+	<iostream>
+
+1523793706 source:e:\vrp\src\point.cpp
+	"Point.h"
+	<cmath>
+
+1523793695 e:\vrp\include\point.h
+	<memory>
+
+1523794463 source:e:\vrp\src\ship.cpp
+	"Ship.h"
+
+1523793498 e:\vrp\include\ship.h
+	<memory>
+	<Point.h>
+	<vector>
+	"Traveller.h"
+
+1523793225 e:\vrp\include\traveller.h
+	"Point.h"
+
+1523793821 source:e:\vrp\src\traveller.cpp
+	"Traveller.h"
+
